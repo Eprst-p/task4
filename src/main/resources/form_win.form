@@ -1,0 +1,18 @@
+{
+  "components": [
+    {
+      "text": "<h1>Вы выиграли !!!</h1>",
+      "type": "text",
+      "id": "Field_166lq07"
+    }
+  ],
+  "type": "default",
+  "id": "form_win",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

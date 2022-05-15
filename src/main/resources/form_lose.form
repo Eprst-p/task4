@@ -1,0 +1,18 @@
+{
+  "components": [
+    {
+      "text": "# <h1>Вы проиграли !!!</h1>",
+      "type": "text",
+      "id": "Field_08iqp6u"
+    }
+  ],
+  "type": "default",
+  "id": "form_lose",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}
